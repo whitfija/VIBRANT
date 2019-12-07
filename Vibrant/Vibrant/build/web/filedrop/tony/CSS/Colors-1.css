@@ -1,0 +1,85 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 2, 2018, 2:05:57 PM
+    Author     : 326main
+*/
+
+.color-wine-red {
+    background-color: #7B1842;
+}
+.color-wine-red:hover {
+    background-color: black;
+}
+.text-color-wine-red{
+    color: #7B1842;
+}
+.color-forest-green {
+    background-color: #1F5846;
+}
+.text-color-forest-green {
+    color: #1F5846;
+}
+.color-ice{
+    background-color: #E7F3FF;
+}
+.text-color-ice{
+    color: #E7F3FF;
+}
+.color-olive-green{
+    background-color: #888551;
+}
+.text-color-olive-green{
+    color: #888551;
+}
+.color-orange{
+    background-color: #D07118;
+}
+.text-color-orange{
+    color: #D07118;
+}
+.color-bright-pink{
+    background-color: #C66C98;
+}
+.text-color-bright-pink{
+    color: #C66C98;
+}
+.color-bubblegum{
+    background-color: #E88EBA;
+}
+.text-color-bubblegum{
+    color: #E88EBA;
+}
+.color-pear{
+    background-color: #ACA81B;
+}
+.text-color-pear{
+    color: #ACA81B;
+}
+.color-daffodil{
+    background-color: #FBEC5F;
+}
+.text-color-daffodil{
+    color: #FBEC5F;
+}
+.color-cobalt{
+    background-color: #1D609C;
+}
+.text-color-cobalt{
+    color: #1D609C;
+}
+.color-orche{
+    background-color: #AD631F;
+}
+.text-color-orche{
+    color: #AD631F;
+}
+.color-tangerine{
+    background-color: #F2933A
+}
+.text-color-tangerine{
+    color: #F2933A
+}
